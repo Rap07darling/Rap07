@@ -1,5 +1,5 @@
 ### Boas vindas ao meu perfil 🎮
-*Rap_darling* 🖤
+> escrito por *Rap_darling* 🖤
 
 - Estudante do [Alura](https://www.alura.com.br) 🏫
 - Estudando linguagem Javascript 🤙
