@@ -2,7 +2,7 @@
 Rap_darling 🖤
 
 - Estudante do [Alura](https://www.alura.com.br) 🏫
-- Estudando linguagem Javascript
+- Estudando linguagem Javascript 🤙
 
 
 
